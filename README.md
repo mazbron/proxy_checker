@@ -1,7 +1,7 @@
 # Simple bash proxy checker #
 ***
 ## Install 
-Wget https://github.com/mazbron/proxy_checker/raw/master/checkProxy.sh
+wget https://github.com/mazbron/proxy_checker/raw/master/checkProxy.sh
 
 chmod +x checkProxy.sh
 ## Proxy format (in text file): ##
