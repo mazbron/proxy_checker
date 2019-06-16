@@ -3,7 +3,7 @@
 ## Install 
 Wget https://github.com/mazbron/proxy_checker/raw/master/checkProxy.sh
 
-chmod _x checkProxy.sh
+chmod +x checkProxy.sh
 ## Proxy format (in text file): ##
 #### with authorization: ####
 
