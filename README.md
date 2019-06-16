@@ -1,3 +1,7 @@
+## Install 
+Wget https://github.com/mazbron/proxy_checker/raw/master/checkProxy.sh
+
+chmod _x checkProxy.sh
 # Simple bash proxy checker #
 ***
 
